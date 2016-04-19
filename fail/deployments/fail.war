@@ -1,0 +1,2 @@
+This is a deliberately corrupt/broken WAR file, to trigger a failed
+deployment, for use as part of regression testing.
